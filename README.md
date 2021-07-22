@@ -1,4 +1,4 @@
-# assignment_1
+# assignment_2
 
 A new Flutter application.
 

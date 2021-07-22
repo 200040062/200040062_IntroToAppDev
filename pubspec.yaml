@@ -1,4 +1,4 @@
-name: assignment_1
+name: assignment_2
 description: A new Flutter application.
 
 # The following line prevents the package from being accidentally published to
@@ -32,6 +32,8 @@ dependencies:
 dev_dependencies:
   flutter_test:
     sdk: flutter
+  cupertino_icons: ^1.0.0
+    #rflutter_alert: ^1.1.0
 
 # For information on the generic Dart part of this file, see the
 # following page: https://dart.dev/tools/pub/pubspec
